@@ -1,0 +1,68 @@
+.resume-layout {
+  width: 960px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  height: 1000px;
+}
+.resume-sider {
+  margin: 24px 24px 12px;
+  text-align: center;
+  font-weight: 100;
+  color: #fff;
+}
+.avatar-name {
+  font-size: 24px;
+  font-weight: 400;
+}
+.avatar-description {
+  font-size: 12px;
+}
+.resume-avatar img {
+  border-radius: 50%;
+  box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0,0,0,.2);
+}
+.resume-contact img {
+  width: 24px;
+  margin: 0 8px;
+}
+.resume-contact li {
+  margin-bottom: 4px; 
+}
+.resume-contact a {
+  color: #fff;
+}
+.resume-sider h1 {
+  color: #fff;
+  font-weight: 200;
+  margin-bottom: 6px;
+}
+.contact-text {
+  top: -8px;
+  position: relative;
+}
+.resume-skill table tr th, .resume-skill table tr td {
+  padding: 3px;
+}
+.skill-bar {
+  border-radius: 2px;
+  height: 13px;
+  background-color: #00BBFE;
+  transition: width .6s ease;
+}
+.resume-content .ant-timeline-item-tail {
+  border-left: 2px solid #999;
+}
+.resume-content .ant-timeline-item-head {
+  background-color: #ececec;
+  padding: 0;
+}
+.right-most {
+  position: absolute;
+  right: 0;
+}
+.timeline-top {
+  font-size: 17px;
+  top: -3px;
+  position: relative;
+}
