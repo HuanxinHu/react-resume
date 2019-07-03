@@ -128,7 +128,7 @@ export default class ResumeContent extends Component {
           ))}
         </Timeline>
         <div style={{position: 'absolute', right: 0}}>
-          <p>The resume is wholly typeset with React.js -- <a href="https://github.com/HuanxinHu/huanxinhu.github.io.src">https://github.com/HuanxinHu/huanxinhu.github.io.src</a></p>
+          <p>The resume is wholly typeset with React.js -- <a href="https://github.com/HuanxinHu/react-resume">https://github.com/HuanxinHu/react-resume</a></p>
         </div>
       </div>
     );
