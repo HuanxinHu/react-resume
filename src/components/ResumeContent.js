@@ -8,7 +8,7 @@ const experiences = [
   {
     title: 'Senior Softeware Engineer Engineer',
     time: 'March 2019 - Present',
-    organization: 'Foftinet',
+    organization: 'Fortinet',
     location: 'Sunnyvale, CA',
     description: [
       {
