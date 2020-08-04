@@ -1,17 +1,11 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 const dividerStyle = {
   borderTop: '1px solid #999999a8',
   margin: '16px auto',
-  width: 190
-}
+  width: 190,
+};
 
-export default class Divider extends Component {
+const Divider = () => <div style={dividerStyle}></div>;
 
-  render() {
-    return (
-      <div style={dividerStyle}></div>
-    );
-  }
-}
-
+export default Divider;
